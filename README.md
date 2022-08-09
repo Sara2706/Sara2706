@@ -3,7 +3,7 @@
 <hr>
 
 ## ✒️ About Me:
-I am a web design and developer. I'm enjoy to develop a website. I know HTML5, CSS3, Javascript, Bootstrap5 and Git. Know i'm start learning 'React JS' and 'Node JS'. 
+I am a web design and developer. Know i'm start learning 'React JS' and 'Node JS'. 
 
   ### 🌱 I’m currently learning:
   Full stack web development in Testbook skill academy.
