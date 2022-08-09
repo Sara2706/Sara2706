@@ -15,8 +15,11 @@ Full stack web development in Testbook skill academy.
 
 ## 📈 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sara2706&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sushantgb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sara2706&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara2706&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sara2706&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 👀 Hobbies:
 Playing chess and cooking
