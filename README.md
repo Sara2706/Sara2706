@@ -14,7 +14,7 @@ Full stack web development in Testbook skill academy.
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 ## 📈 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sara2706gb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sara2706&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sushantgb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
