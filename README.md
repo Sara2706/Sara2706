@@ -5,10 +5,11 @@
 ## ✒️ About Me:
 I am a web design and developer. I'm enjoy to develop a website. I know HTML5, CSS3, Javascript, Bootstrap5 and Git. Know i'm start learning 'React JS' and 'Node JS'. 
 
-## 👀 Hobbies:
-
 ## 🌱 I’m currently learning:
 Full stack web development in Testbook skill academy.
+
+## 👀 Hobbies:
+Playing chess and cooking
 
 ## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/saravanan2706)
