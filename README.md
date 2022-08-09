@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="35px" height="35px"></img> Hello There! Saravanan Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
-<hr>
 
 ## ✒️ About Me:
 I am a web design and developer. Know i'm start learning 'React JS' and 'Node JS'. 
