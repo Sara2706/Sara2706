@@ -13,8 +13,8 @@ I am a web design and developer. I have a knowledge in MERN Stack development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React js" alt="React js" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" title="Node js" alt="Node js" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express js" alt="Express js" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png" title="Express js" alt="Express js" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhHsCg8Urz0PkGg7IhaWh8G8ZMOynkXVbAvnqvM1o&s" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
 
 
   ### 📈 My GitHub Stats:
