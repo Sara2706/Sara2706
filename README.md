@@ -6,14 +6,14 @@ I am a web designer and developer with 1.5 years of experience in the MERN stack
   ### 🌱 I’m currently learning:
   Full stack web development at Testbook Skill Academy.
 
-   ### 🖥️ Tech & Tools:
+    ### 🖥️ Tech & Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest JS" alt="Nest JS" width="40" height="40"/>&nbsp;
+  <img src="https://d33wubrfki0l68.cloudfront.net/ff2ad7a260367a0d0df38323b208e18cb0575039/274f7/assets/imgs/nest-logo.svg" title="Nest JS" alt="Nest JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhHsCg8Urz0PkGg7IhaWh8G8ZMOynkXVbAvnqvM1o&s" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
