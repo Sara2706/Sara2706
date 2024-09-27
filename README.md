@@ -14,9 +14,7 @@ I am a web designer and developer with 1.5 years of experience in the MERN stack
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
   <img src="https://d33wubrfki0l68.cloudfront.net/ff2ad7a260367a0d0df38323b208e18cb0575039/274f7/assets/imgs/nest-logo.svg" title="Nest JS" alt="Nest JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhHsCg8Urz0PkGg7IhaWh8G8ZMOynkXVbAvnqvM1o&s" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  ![Nest Js](https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
