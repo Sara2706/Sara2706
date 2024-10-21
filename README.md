@@ -3,9 +3,6 @@
 ## ✒️ About Me:
 I am a web designer and developer with 1.5 years of experience in the MERN stack. I've worked on multiple full-stack projects with a focus on improving user experience and scalability. 
 
-  ### 🌱 I’m currently learning:
-  Full stack web development at Testbook Skill Academy.
-
     ### 🖥️ Tech & Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
