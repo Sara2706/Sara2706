@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="35px" height="35px"></img> Hello There! Saravanan Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
 
 ## ✒️ About Me:
-I am a web designer and developer with 1.5 years of experience in the MERN stack. I've worked on multiple full-stack projects with a focus on improving user experience and scalability. 
+I am a web designer and developer with 2 years of experience in the MERN stack. I've worked on multiple full-stack projects with a focus on improving user experience and scalability. 
 
     ### 🖥️ Tech & Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
